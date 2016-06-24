@@ -29,20 +29,23 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "social informatics",
       "keywords": [
+        "connected presence",
+        "social networks"
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
+        "autonomous agents",
+        "emotional intelligence",
+        "emotion contagion"
       ]
     }
   ],
