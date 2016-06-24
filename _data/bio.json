@@ -134,28 +134,29 @@
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Po'oihe Cyber Range Exercise",
+      "website": "http://www.hawaii.edu/cyberrange/",
+      "position": "Black Team Member",
+      "startDate": "Summer 2014",
+      "endDate": "Summer 2015",
+      "summary": "Assisted in setting up and cleaning up hardware and testing of computer software",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Tested Kali Linux, Metasploit, and VPN software",
+        "Set up the switches and cables necessary for the Blue Teams' networks"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Information Technology Management Association (ITMA)",
+      "website": "http://www.itmahawaii.com",
+      "position": "Director of Marketing",
+      "startDate": "Fall 2013",
+      "endDate": "Spring 2014",
+      "summary": "Executive board member of a Shidler business club, with a focus on club marketing.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Maintained online club presence (website, Facebook)",
+        "Organized club recruitment",
+        "Organized two large and successful promotional and fundraising events at Nocturna Lounge",
+        "Assisted club president and other officers with miscellaneous club duties"
       ]
     }
   ],
