@@ -6,9 +6,9 @@
     "email": "amytaka@hawaii.edu",
     "phone": "808-956-7420",
     "website": "https://amymalia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "summary": "I am studying for a Masters in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2017.",
     "location": {
-      "address": "",
+      "address": "1680 East-West Road, POST Building Room 314-7",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,42 +17,35 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "amymalia",
+        "url": "http://github.com/amymalia"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "amytakayesu",
+        "url": "http://linkedin.com/in/amytakayesu"
       },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
-      }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "software engineering",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "social informatics",
       "keywords": [
+        "connected presence",
+        "social networks"
       ]
     },
     {
       "name": "artificial intelligence",
       "keywords": [
+        "autonomous agents",
+        "emotional intelligence",
+        "emotion contagion"
       ]
     }
   ],
@@ -64,9 +57,14 @@
         "C",
         "C++",
         "Java",
+        "HTML/CSS",
         "Javascript",
+        "SQL",
         "Assembly",
-        "Common Lisp"
+        "Common Lisp",
+        "Prolog",
+        "Python",
+        "Java Play Framework"
       ]
     },
     {
@@ -75,89 +73,99 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Kali Linux",
+        "Windows",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science, minor in Business Administration",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "startDate": "2010",
+      "endDate": "2014",
+      "gpa": "3.54",
+      "courses": ["Introduction to Computer Science I & II, Discrete Mathematics for Computer Science I & II, Program Structure, Algorithms, Machine-Level and Systems Programming, Programming Language Theory, Software Engineering I & II, Data Storage and Retrieval, Logic Design and Microprocessors, Network Design and Management, Computing Ethics for Lab Assistants, Computer Security and Ethics, Computer System Security, Secure Coding, Design for Mobile Devices"
+      ]
+    }
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2015",
+      "endDate": "Expected 2017",
+      "gpa": "3.85",
+      "courses": ["Advanced Software Engineering", "Advanced Artificial Intelligence", "High Performance Computing", "Analysis of Algorithms", "HCI Design Methods", "Intelligent Autonomous Agents", "Social Informatics"
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Computer Science Department",
+      "position": "Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "January 2015",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assist professors in teaching undergraduate ICS courses (Introduction to Computer Science II, Programming Language Theory, Secure Coding, Software Engineering I & II).",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed full lesson plans including class format, material, homework, facilitating discussions, and exams for Secure Coding class",
+        "Led and lectured 75-minute classes twice a week for Introduction to Computer Science II",
+        "Worked in small groups (3-4 students) with each student for Software Engineering I & II",
+        "Graded homework assignments and exams for Introduction to Computer Science II, Software Engineering I & II, and Programming Language Theory"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa Computer Science Department",
+      "position": "Assitant Computer Engineer",
+      "website": "",
+      "startDate": "January 2013",
+      "endDate": "December 2014",
+      "summary": "Worked with students and professors to ensure quality IT support in the ICS department.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted with building and troubleshooting Windows computers for student labs",
+        "Assisted with security camera and surveillance system", 
+        "Worked as a server administrator", 
+        "Provided technical support to department staff",
+        "Maintained department equipment through general maintenance and weekly updates"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Po'oihe Cyber Range Exercise",
+      "website": "http://www.hawaii.edu/cyberrange/",
+      "position": "Black Team Member",
+      "startDate": "Summer 2014",
+      "endDate": "Summer 2015",
+      "summary": "Assisted in setting up and cleaning up hardware and testing of computer software",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Tested Kali Linux, Metasploit, and VPN software",
+        "Set up the switches and cables necessary for the Blue Teams' networks"
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Information Technology Management Association (ITMA)",
+      "website": "http://www.itmahawaii.com",
+      "position": "Director of Marketing",
+      "startDate": "Fall 2013",
+      "endDate": "Spring 2014",
+      "summary": "Executive board member of a Shidler business club, with a focus on club marketing.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Maintained online club presence (website, Facebook)",
+        "Organized club recruitment",
+        "Organized two large and successful promotional and fundraising events at Nocturna Lounge",
+        "Assisted club president and other officers with miscellaneous club duties"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
+      "title": "Centennial Bonus Scholarship",
+      "date": "2010-2014",
       "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "summary": "Scholarships awarded to incoming freshmen with high academic achievements and high standardized test scores."
     }
   ],
   "references": [
