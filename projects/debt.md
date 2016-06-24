@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/debt.jpg
+image: images/debt.png
 title: Secure Debt Tracker
 permalink: projects/debt
 date: 2014
