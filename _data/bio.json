@@ -8,7 +8,7 @@
     "website": "https://amymalia.github.io",
     "summary": "I am studying for a Masters in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2017.",
     "location": {
-      "address": "",
+      "address": "1680 East-West Road, POST Building Room 314-7",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,23 +17,13 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "amymalia",
+        "url": "http://github.com/amymalia"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "amytakayesu",
+        "url": "http://linkedin.com/in/amytakayesu"
       }
     ]
   },
