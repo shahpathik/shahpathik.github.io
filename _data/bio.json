@@ -57,9 +57,14 @@
         "C",
         "C++",
         "Java",
+        "HTML/CSS",
         "Javascript",
+        "SQL",
         "Assembly",
-        "Common Lisp"
+        "Common Lisp",
+        "Prolog",
+        "Python",
+        "Java Play Framework"
       ]
     },
     {
@@ -68,21 +73,31 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
+        "Kali Linux",
+        "Windows"
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
       ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science, minor in Business Administration",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "startDate": "2010",
+      "endDate": "2014",
+      "gpa": "3.54",
+      "courses": ["Introduction to Computer Science I & II, Discrete Mathematics for Computer Science I & II, Program Structure, Algorithms, Machine-Level and Systems Programming, Programming Language Theory, Software Engineering I & II, Data Storage and Retrieval, Logic Design and Microprocessors, Network Design and Management, Computing Ethics for Lab Assistants, Computer Security and Ethics, Computer System Security, Secure Coding, Design for Mobile Devices"
+      ]
+    },
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science",
+      "studyType": "Masters",
+      "startDate": "2015",
+      "endDate": "Expected 2017",
+      "gpa": "3.85",
+      "courses": ["Advanced Software Engineering", "Advanced Artificial Intelligence", "High Performance Computing", "Analysis of Algorithms", "HCI Design Methods", "Intelligent Autonomous Agents", "Social Informatics"
       ]
     }
   ],
