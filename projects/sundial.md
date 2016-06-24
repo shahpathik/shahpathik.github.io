@@ -13,7 +13,7 @@ labels:
 summary: A dynamic, customizable and useable sundial web application created by three undergraduate CS students for Software Engineering II.
 ---
 
-<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/sundial.png">
+<img class="ui medium right floated rounded image" src="{{ site.baseurl }}/images/sundial.jpg">
 
 This sundial application was created by a team of three undergraduate software engineering students in 2013. This web application allows users to enter the desired date (using a date picker), location (it auto-generates the coordinates), and whether daylight savings should be activated or not. The application then generates an image of the sundial and gnomon, of the correct dimensions for these particular conditions. The user can then follow the instructions to print and cut out the images and paste them together to create their accurate sundial.
 
