@@ -87,7 +87,7 @@
       "startDate": "2010",
       "endDate": "2014",
       "gpa": "3.54",
-      "courses": ["Introduction to Computer Science I & II, Discrete Mathematics for Computer Science I & II, Program Structure, Algorithms, Machine-Level and Systems Programming, Programming Language Theory, Software Engineering I & II, Data Storage and Retrieval, Logic Design and Microprocessors, Network Design and Management, Computing Ethics for Lab Assistants, Computer Security and Ethics, Computer System Security, Secure Coding, Design for Mobile Devices"
+      "courses": ["Introduction to Computer Science I & II", "Discrete Mathematics for Computer Science I & II", "Program Structure", "Algorithms", "Machine-Level and Systems Programming", "Programming Language Theory", "Software Engineering I & II", "Data Storage and Retrieval", "Logic Design and Microprocessors", "Network Design and Management", "Computing Ethics for Lab Assistants", "Computer Security and Ethics", "Computer System Security", "Secure Coding", "Design for Mobile Devices"
       ]
     },
     {
@@ -103,27 +103,32 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "UH Manoa Computer Science Department",
+      "position": "Teaching Assistant",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "January 2015",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Assist professors in teaching undergraduate ICS courses (Introduction to Computer Science II, Programming Language Theory, Secure Coding, Software Engineering I & II).",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Developed full lesson plans including class format, material, homework, facilitating discussions, and exams for Secure Coding class",
+        "Led and lectured 75-minute classes twice a week for Introduction to Computer Science II",
+        "Worked in small groups (3-4 students) with each student for Software Engineering I & II",
+        "Graded homework assignments and exams for Introduction to Computer Science II, Software Engineering I & II, and Programming Language Theory"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Manoa Computer Science Department",
+      "position": "Assitant Computer Engineer",
+      "website": "",
+      "startDate": "January 2013",
+      "endDate": "December 2014",
+      "summary": "Worked with students and professors to ensure quality IT support in the ICS department.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Assisted with building and troubleshooting Windows computers for student labs",
+        "Assisted with security camera and surveillance system", 
+        "Worked as a server administrator", 
+        "Provided technical support to department staff",
+        "Maintained department equipment through general maintenance and weekly updates"
       ]
     }
   ],
