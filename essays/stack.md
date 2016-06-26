@@ -9,7 +9,6 @@ labels:
   - Stack Overflow
   - Learning
 ---
-
 According to Eric Raymond, there are several rules that people should follow when posting technical questions on the Internet, in order to avoid becoming deemed a “luser” and receiving inadequate feedback. In order to better understand Raymond’s claims, I have scoured the internationally popular tech forum, StackOverflow, for questions that are the best of the best, as well as the worst of the worst.
 
 Best of the Best
