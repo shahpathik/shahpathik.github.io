@@ -9,7 +9,7 @@ date: 2015
 labels:
   - Java Play Framework
 summary: An interactive and responsive website created by three graduate stduents for a software engineering class using Java Play Framework.
-projecturl: https://github.com/KaleWithFriends/KaleWithFriends
+projecturl: https://github.com/KaleWithFriends/KaleWithFriends/wiki
 ---
 
 
