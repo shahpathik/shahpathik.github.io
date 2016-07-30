@@ -21,4 +21,4 @@ The code was divided into three parts: web design, calculations, and the drawing
 
 By completing the project, I learned a few of the difficulties and conveniences of programming as a group using version control. I learned that communication is key, otherwise code will be written and rewritten more than it needs to be. I gained my first self-taught skills in Javascript, and I learned how a sundial actually works!
 
-You can learn more and view the application at [the website](http://www-ee.eng.hawaii.edu/~mmouse/about.html).
+You can learn more and view the application at [the website](https://github.com/amymalia/ics-414-grenache).
