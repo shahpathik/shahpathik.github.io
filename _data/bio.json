@@ -2,7 +2,7 @@
   "basics": {
     "name": "Amy Takayesu",
     "label": "Graduate Student",
-    "picture": "https://amymalia.github.io/images/amy.jpg",
+    "picture": "https://amymalia.github.io/images/amy2.jpeg",
     "email": "amytaka@hawaii.edu",
     "phone": "808-956-7420",
     "website": "https://amymalia.github.io",
@@ -95,7 +95,7 @@
       "area": "Computer Science",
       "studyType": "Masters",
       "startDate": "2015",
-      "endDate": "Expected 2017",
+      "endDate": "2017",
       "gpa": "3.85",
       "courses": ["Advanced Software Engineering", "Advanced Artificial Intelligence", "High Performance Computing", "Analysis of Algorithms", "HCI Design Methods", "Intelligent Autonomous Agents", "Social Informatics"
       ]
@@ -106,7 +106,7 @@
       "company": "UH Manoa Computer Science Department",
       "position": "Teaching Assistant",
       "website": "",
-      "startDate": "January 2015",
+      "startDate": "2015",
       "endDate": "Present",
       "summary": "Assist professors in teaching undergraduate ICS courses (Introduction to Computer Science II, Programming Language Theory, Secure Coding, Software Engineering I & II).",
       "highlights": [
@@ -120,8 +120,8 @@
       "company": "UH Manoa Computer Science Department",
       "position": "Assitant Computer Engineer",
       "website": "",
-      "startDate": "January 2013",
-      "endDate": "December 2014",
+      "startDate": "2013",
+      "endDate": "2014",
       "summary": "Worked with students and professors to ensure quality IT support in the ICS department.",
       "highlights": [
         "Assisted with building and troubleshooting Windows computers for student labs",
@@ -137,8 +137,8 @@
       "organization": "Po'oihe Cyber Range Exercise",
       "website": "http://www.hawaii.edu/cyberrange/",
       "position": "Black Team Member",
-      "startDate": "Summer 2014",
-      "endDate": "Summer 2015",
+      "startDate": "2014",
+      "endDate": "2015",
       "summary": "Assisted in setting up and cleaning up hardware and testing of computer software",
       "highlights": [
         "Tested Kali Linux, Metasploit, and VPN software",
@@ -149,8 +149,8 @@
       "organization": "Information Technology Management Association (ITMA)",
       "website": "http://www.itmahawaii.com",
       "position": "Director of Marketing",
-      "startDate": "Fall 2013",
-      "endDate": "Spring 2014",
+      "startDate": "2013",
+      "endDate": "2014",
       "summary": "Executive board member of a Shidler business club, with a focus on club marketing.",
       "highlights": [
         "Maintained online club presence (website, Facebook)",
