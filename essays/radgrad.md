@@ -72,3 +72,5 @@ Thanks to ACM and the ICSpace, there have already been some changes in the ICS d
 
 ### Conclusion
 RadGrad has the capability of making very huge impacts on the ICS department at UH Manoa. Even the smallest functionalities can make a large difference to an individual student. While the current ICS department is superb, it has the potential to become even greater. College is a difficult time for students as it is--why make it harder? RadGrad can improve the ICS college student experience to make it easier, more enjoyable, less scary, more supportive, and overall simply more rad. 
+
+You can learn more about RadGrad [here](http://radgrad.org/).
