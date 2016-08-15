@@ -10,6 +10,13 @@ labels:
   - Education
 ---
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/argentina.jpg">
+  <img class="ui image" src="../images/argentina.jpg">
+  <img class="ui image" src="../images/argentina.jpg">
+  <img class="ui image" src="../images/argentina.jpg">
+</div>
+
 In 2011, I decided to learn Spanish. I took two college Introductory Spanish courses for 50 minutes three times a week, over a span of about 9 months. Each week, we were assigned a substantial amount of long, tedious homework, which would take an average of about 3 hours to complete. We had to read chapters in the textbook, memorize vocabulary words, and do written and verbal exercises on the computer. Since each semester was about 15 weeks long, at the end of the 9 months, I had a total of about 75 hours of direct classroom Spanish instruction, and about 60 hours of self directed Spanish study at home. With a total of 135 hours of Spanish learning behind me, I was feeling pretty confident, or bastante seguros, with my Spanish language skills.
 
 The following summer, I decided to go to Mendoza, Argentina for 6 weeks to complete my Spanish training. As soon as I landed, I was greeted by my Argentinian host family, and a flurry of rapid Spanish began around me. I was at a complete loss for words. Up until this point, I could only barely understand my patient and simple-speaking Spanish professor and the slow and exaggeratedly enunciated voices of the online Spanish workbook. I managed "hola" and "si" and that was about it. Suddenly all the Spanish I had drilled into my brain over the past 9 months was failing me.
