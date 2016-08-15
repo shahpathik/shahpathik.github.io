@@ -21,7 +21,7 @@ I wasn't spending my nights reading my textbook or memorizing words like I did b
 
 During the last week of my stay in Mendoza, two amazing things happened. First of all, I had my first dream in Spanish. Second of all, I was able to give an impromptu 20 minute presentation completely in Spanish. I was not nervous, and it came out almost naturally, as if it was of second nature. 
 
-<img src="argentina.jpg">*At Aconcagua, the highest mountain outside of Asia*
+<img src="../images/argentina.jpg">*At Aconcagua, Mendoza, the highest mountain outside of Asia*
 
 ### On Language Learning
 
