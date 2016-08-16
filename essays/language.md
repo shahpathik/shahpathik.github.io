@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-draft: true
+published: true
 title: Empanadas and Language Learning 
 date: 2016-07-25
 labels:
