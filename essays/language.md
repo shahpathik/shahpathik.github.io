@@ -46,7 +46,7 @@ This change meant that the students had a lot more work to do throughout the sem
 
 ### Resources to Learn how to Code Actively
 
-There are many sources on the web that allow programmers to learn in a hands on way. Instead of just buying a book about security, I would recommend that a security enthusiast tries his hand at hackthissite.com, which includes dozens of vulnerable "sites" for you to hack. There are also free sites such as freecodecamp.com, which leads users through hands on web application coding tutorials in which the user creates and executes snippets of code with automatic feedback. 
+There are many sources on the web that allow programmers to learn in a hands on way. Instead of just buying a book about security, I would recommend that a security enthusiast tries his hand at [hackthissite](hackthissite.com), which includes dozens of vulnerable "sites" for you to hack. For the more software developer inclined, there are free sites such as [freecodecamp](freecodecamp.com), which leads users through hands on web application coding tutorials in which the user creates and executes snippets of code with automatic feedback. 
 
 Learning any language can be a long and difficult process, but it doesn't have to be so grueling. By actively learning and engaging in using the language from the start, learning a language can become more of a journey rather than a frustrating homework assignment.
 
