@@ -9,12 +9,8 @@ labels:
   - Education
 ---
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/argentina.jpg">
-  <img class="ui image" src="../images/winery.jpg">
-  <img class="ui image" src="../images/horse.jpg">
-  <img class="ui image" src="../images/ski.jpg">
-</div>
+<img class="ui medium right floated rounded image" src="../images/empanadas.jpg">
+
 
 In 2011, I decided to learn Spanish. I took two college Introductory Spanish courses for 50 minutes three times a week, over a span of about 9 months. Each week, we were assigned a substantial amount of long, tedious homework, which would take an average of about 3 hours to complete. We had to read chapters in the textbook, memorize vocabulary words, and do written and verbal exercises on the computer. Since each semester was about 15 weeks long, at the end of the 9 months, I had a total of about 75 hours of direct classroom Spanish instruction, and about 60 hours of self directed Spanish study at home. With a total of 135 hours of Spanish learning behind me, I was feeling pretty confident, or bastante seguros, with my Spanish language skills.
 
@@ -27,6 +23,13 @@ The first two weeks were a constant mental and physical workout. My mind was con
 I wasn't spending my nights reading my textbook or memorizing words like I did before. Instead, I was going out to pubs with my friends, going horseback riding in the Andes mountains, learning how to ski at Las Lenas, wine tasting at famous Mendoza malbec wineries, getting lost in the Mendoza ghetto, and taking tango dancing classes. At one point I thought to myself, I really should start studying more if I want to really improve my Spanish.
 
 During the last week of my stay in Mendoza, two amazing things happened. First of all, I had my first dream in Spanish. Second of all, I was able to give an impromptu 20 minute presentation completely in Spanish. I was not nervous, and it came out almost naturally, as if it was of second nature. 
+
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/argentina.jpg">
+  <img class="ui image" src="../images/winery.jpg">
+  <img class="ui image" src="../images/horse.jpg">
+  <img class="ui image" src="../images/ski.jpg">
+</div>
 
 ### On Language Learning
 
