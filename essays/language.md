@@ -24,13 +24,6 @@ But I wasn't spending my nights reading my textbook or memorizing words like I d
 
 **During the last week of my stay in Mendoza, two amazing things happened.** First of all, I had my first dream in Spanish. Second of all, I was able to give an impromptu 20 minute presentation completely in Spanish. I was not nervous, and it came out almost naturally, as if it was of second nature. 
 
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/argentina.jpg">
-  <img class="ui image" src="../images/winery.jpg">
-  <img class="ui image" src="../images/horse.jpg">
-  <img class="ui image" src="../images/ski.jpg">
-</div>
-
 ### On Language Learning
 
 I learned a lot of important things from my study abroad in Mendoza. Obviously, I learned about Argentinian culture and the Spanish language. I learned that Mendoza empanadas are superiorly delicious, Argentinians are great story tellers, and that in Argentina, dinner is served at 10 PM and nightlife begins around 2 PM. However, I also learned something about learning itself. I realized that I had learned exponentially more Spanish in six weeks in Argentina than I did in nine months in my college class. Being in Mendoza was definitely more challenging and more physically and mentally demanding than course learning, but the payoff was so much greater. I became immersed in the language. I was forced to understand the language. It was so much more than just grammar, vocabulary words, verb conjugations, syntax, and sentence structure. There was culture, there was tone, and there was intent. Simply having intentions behind the words I was speaking and comprehending made the experience so much more rewarding. I wasn't just making up a scenario for a five minute class presentation, and I wasn't just listening to some prerecorded man speak about some dull subject. I was using Spanish the way I wanted to, and because of that, I was able to learn so much more. 
@@ -50,6 +43,11 @@ There are many sources on the web that allow programmers to learn in a hands on 
 
 Learning any language can be a long and difficult process, but it doesn't have to be so grueling. By actively learning and engaging in using the language from the start, learning a language can become more of a journey rather than just a frustrating homework assignment.
 
-
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/argentina.jpg">
+  <img class="ui image" src="../images/winery.jpg">
+  <img class="ui image" src="../images/horse.jpg">
+  <img class="ui image" src="../images/ski.jpg">
+</div>
 
 
