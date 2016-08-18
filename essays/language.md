@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 published: true
-title: Empanadas and Language Learning 
+title: Empanadas Abroad and Language Learning 
 date: 2016-07-25
 labels:
   - Programming Languages
