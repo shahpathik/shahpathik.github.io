@@ -19,7 +19,7 @@ Once I realized how much more sane my computer science friends made me, I decide
 
 
 
-Making a Difference
+### Making a Difference
 
 Later on, one of my new computer science friends told me about an organization called Information Technology Management Association (ITMA) at the Shidler College of Business. Although it was a business club, it was open to computer science majors as well, because at this time, there was no computer science club other than the competitive hacking Grey Hats club. I decided to in order to meet more students with the same interests as me. Later on, I joined the executive board as the Director of Marketing for the club. My major focus as director of marketing was recruitment. That semester was particularly difficult because majority of the club had graduated the previous semester, leaving the club with a measly 10 members or so. 
 
@@ -29,7 +29,7 @@ I have learned that it is very important and highly beneficial to have a support
 
 
 
-How to Become Involved
+### How to Become Involved
 
 There are many ways to become involved with a computer science community. At the UH Manoa ICS program, there is the newly created ICSpace lounge, which is a open area for ICS students and faculty to meet, work, and share ideas. It is also the meeting space for the UH Manoa ACM chapter, which provides ICS students with a way to bond, build applications, and expand their network. There is also the Grey Hats club for students who are interested in computer and network security. Although it is not a part of the ICS program, ITMA is also a great organization for computer science members to network and expand their business skills alongside their technical knowledge.
 
