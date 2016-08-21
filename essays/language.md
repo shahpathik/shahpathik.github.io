@@ -37,17 +37,18 @@ During the summer of 2015 I was the TA for an online Secure Coding class. I was 
 
 This change meant that the students had a lot more work to do throughout the semester, but based off the feedback at the end of the semester, a majority of the students seemed to enjoy the class, felt that it was both interesting and challenging, and felt that they got a lot out of it. By forcing students to think about secure code by actually coding and exploiting code each week, they were able to get a deeper understanding rather than just reading about it and reflecting upon the work of others. 
 
-### Resources to Learn how to Code Actively
-
-There are many sources on the web that allow programmers to learn in a hands on way. Instead of just buying a book about security, I would recommend that a security enthusiast tries his hand at [hackthissite](hackthissite.com), which includes dozens of vulnerable "sites" for you to hack. For the more software developer inclined, there are free sites such as [freecodecamp](freecodecamp.com), which leads users through hands on web application coding tutorials in which the user creates and executes snippets of code with automatic feedback. 
-
-Learning any language can be a long and difficult process, but it doesn't have to be so grueling. By actively learning and engaging in using the language from the start, learning a language can become more of a journey rather than just a frustrating homework assignment.
-
 <div class="ui small rounded images">
   <img class="ui image" src="../images/argentina.jpg">
   <img class="ui image" src="../images/winery.jpg">
   <img class="ui image" src="../images/horse.jpg">
   <img class="ui image" src="../images/ski.jpg">
 </div>
+
+### Resources to Learn how to Code Actively
+
+There are many sources on the web that allow programmers to learn in a hands on way. Instead of just buying a book about security, I would recommend that a security enthusiast tries his hand at [hackthissite](hackthissite.com), which includes dozens of vulnerable "sites" for you to hack. For the more software developer inclined, there are free sites such as [freecodecamp](freecodecamp.com), which leads users through hands on web application coding tutorials in which the user creates and executes snippets of code with automatic feedback. 
+
+Learning any language can be a long and difficult process, but it doesn't have to be so grueling. By actively learning and engaging in using the language from the start, learning a language can become more of a journey rather than just a frustrating homework assignment.
+
 
 
