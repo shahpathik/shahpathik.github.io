@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true
+published: false
 image: images/sundial.jpg
 title: Sundial Web Application
 permalink: projects/sundial
