@@ -13,7 +13,7 @@ labels:
   <img class="ui image" src="../images/reality.jpg">
 </div>
 
-Image credit: osbornead.blogspot.com (left); npr.org (right)
+*Image credit: osbornead.blogspot.com (left); npr.org (right)*
 
 **Programming should be a very social activity.**
 
