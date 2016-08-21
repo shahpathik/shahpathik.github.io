@@ -24,6 +24,13 @@ But I wasn't spending my nights reading my textbook or memorizing words like I d
 
 **During the last week of my stay in Mendoza, two amazing things happened.** First of all, I had my first dream in Spanish. Second of all, I was able to give an impromptu 20 minute presentation completely in Spanish. I was not nervous, and it came out almost naturally, as if it was of second nature. 
 
+<div class="ui small rounded images">
+  <img class="ui image" src="../images/argentina.jpg">
+  <img class="ui image" src="../images/winery.jpg">
+  <img class="ui image" src="../images/horse.jpg">
+  <img class="ui image" src="../images/ski.jpg">
+</div>
+
 ### On Language Learning
 
 I learned a lot of important things from my study abroad in Mendoza. Obviously, I learned about Argentinian culture and the Spanish language. I learned that Mendoza empanadas are superiorly delicious, Argentinians are great story tellers, and that in Argentina, dinner is served at 10 PM and nightlife begins around 2 PM. However, I also learned something about learning itself. I realized that I had learned exponentially more Spanish in six weeks in Argentina than I did in nine months in my college class. Being in Mendoza was definitely more challenging and more physically and mentally demanding than course learning, but the payoff was so much greater. I became immersed in the language. I was forced to understand the language. It was so much more than just grammar, vocabulary words, verb conjugations, syntax, and sentence structure. There was culture, there was tone, and there was intent. Simply having intentions behind the words I was speaking and comprehending made the experience so much more rewarding. I wasn't just making up a scenario for a five minute class presentation, and I wasn't just listening to some prerecorded man speak about some dull subject. I was using Spanish the way I wanted to, and because of that, I was able to learn so much more. 
@@ -36,13 +43,6 @@ When I returned from Mendoza, I decided I was done with my Spanish education. In
 During the summer of 2015 I was the TA for an online Secure Coding class. I was given the lesson plans and material used in the previous classes, but I was also told that I was allowed to change the structure of the class any way I wanted, with the professor's approval. The previous lesson plans were very reading and response heavy, with one main project at the end. To me, this structure seemed similar to how I learned Spanish—I learned it all from the book, and then I had a huge project at the end, and I became overwhelmed and found it difficult to figure out how to properly use the knowledge that I had acquired. Instead, I imagined a class structure that forced the students to program and use the ideas they were reading about from the start of the class. I ended up rearranging the class so that each week, there were still some readings, but there was also a relevant coding assignment that allowed the students to use the skills that they read about that week. When they read about SQL injection for instance, instead of just writing a report about it, I had them hack a mock website using SQL injection. Each week there was a focus on a new type of vulnerability, and the students would actually exploit these weaknesses as a way to test their knowledge. 
 
 This change meant that the students had a lot more work to do throughout the semester, but based off the feedback at the end of the semester, a majority of the students seemed to enjoy the class, felt that it was both interesting and challenging, and felt that they got a lot out of it. By forcing students to think about secure code by actually coding and exploiting code each week, they were able to get a deeper understanding rather than just reading about it and reflecting upon the work of others. 
-
-<div class="ui small rounded images">
-  <img class="ui image" src="../images/argentina.jpg">
-  <img class="ui image" src="../images/winery.jpg">
-  <img class="ui image" src="../images/horse.jpg">
-  <img class="ui image" src="../images/ski.jpg">
-</div>
 
 ### Resources to Learn how to Code Actively
 
