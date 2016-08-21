@@ -9,7 +9,7 @@ labels:
   - Education
 ---
 
-Programming should be a very social activity.
+*Programming should be a very social activity.*
 
 When I first learned how to program, I did everything on my own. I have always been a very self directed learner, and I enjoy figuring out things on my own rather than asking for help. There have been some pros and cons to this way of learning, but it seemed to fare well for me when it came to programming. I could create entire functional programs completely on my own. I could create something out of what seemed to be nothing. It was amazing. And I could do it all by myself, squinting at my screen alone in my room at 3 in the morning.
 
@@ -31,7 +31,7 @@ I have learned that it is very important and highly beneficial to have a support
 
 ### How to Become Involved
 
-There are many ways to become involved with a computer science community. At the UH Manoa ICS program, there is the newly created ICSpace lounge, which is a open area for ICS students and faculty to meet, work, and share ideas. It is also the meeting space for the UH Manoa ACM chapter, which provides ICS students with a way to bond, build applications, and expand their network. There is also the Grey Hats club for students who are interested in computer and network security. Although it is not a part of the ICS program, [ITMA](itmahawaii.com) is also a great organization for computer science members to network and expand their business skills alongside their technical knowledge. Additionally, for the entrepreneurship inclined, there is a [Hawaii Student Entrepreneurship club](http://www.hsentrepreneurs.com/) which often includes students who are searching for app developers for their startup businesses.
+*There are many ways to become involved with a computer science community.* At the UH Manoa ICS program, there is the newly created ICSpace lounge, which is a open area for ICS students and faculty to meet, work, and share ideas. It is also the meeting space for the UH Manoa ACM chapter, which provides ICS students with a way to bond, build applications, and expand their network. There is also the Grey Hats club for students who are interested in computer and network security. Although it is not a part of the ICS program, [ITMA](itmahawaii.com) is also a great organization for computer science members to network and expand their business skills alongside their technical knowledge. Additionally, for the entrepreneurship inclined, there is a [Hawaii Student Entrepreneurship club](http://www.hsentrepreneurs.com/) which often includes students who are searching for app developers for their startup businesses.
 
 In the greater Hawaii, there is [TechHui](techhui.com), which brings together the general tech community using online discussion forums. TechHui members range from University students and professors to scientists, to professional developers, to tech entrepreneurs, and to casual tech lovers. There are also frequent public events throughout the year such as hackathons (i.e. AT&T Mobile App Hackathon, DevLeague Hackathons, UH Mobile App Hackathon) and software developer networking events, such as WetWare Wednesdays. Furthermore, platforms such as the real-time collaboration tool, Slack, make it easy and convenient for programmers to communicate to each other, whether they are working together on a project, are coworkers, or are classmates.
 
