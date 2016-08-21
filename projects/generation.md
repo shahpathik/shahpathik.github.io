@@ -3,7 +3,7 @@ layout: project
 type: project
 published: true
 image: images/generation.jpg
-title: Sundial Web Application
+title: Communication Technology Patterns and the Generation Gap
 permalink: projects/sundial
 date: 2016
 labels:
