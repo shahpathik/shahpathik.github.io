@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Smart VS Not-So-Smart Questions from StackOverflow
 date: 2015-01-24
 labels:
