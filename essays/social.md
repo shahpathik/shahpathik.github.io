@@ -13,8 +13,6 @@ labels:
   <img class="ui image" src="../images/reality.jpg">
 </div>
 
-*Image credit: osbornead.blogspot.com (left); npr.org (right)*
-
 **Programming should be a very social activity.**
 
 When I first learned how to program, I did everything on my own. I have always been a very self directed learner, and I enjoy figuring out things on my own rather than asking for help. There have been some pros and cons to this way of learning, but it seemed to fare well for me when it came to programming. I could create entire functional programs completely on my own. I could create something out of what seemed to be nothing. It was amazing. And I could do it all by myself, squinting at my screen alone in my room at 3 in the morning.
@@ -43,4 +41,5 @@ In the greater Hawaii, there is [TechHui](techhui.com), which brings together th
 
 With so many opportunities available, it has become hard to not become a social programmer in some way. The old stereotype of the lone, anti-social programmer in the basement has quickly become just an outdated and irrelevant adage in the new social world of programming. 
 
+*Image credit: osbornead.blogspot.com (left); npr.org (right)*
 
