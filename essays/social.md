@@ -8,6 +8,10 @@ labels:
   - Programming Languages
   - Education
 ---
+<div class="ui medium rounded images">
+  <img class="ui image" src="../images/expectations.jpg">
+  <img class="ui image" src="../images/reality.jpg">
+</div>
 
 **Programming should be a very social activity.**
 
