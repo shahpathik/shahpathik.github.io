@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-published: true
+published: false
 title: Regarding OSS Licenses
 date: 2015-01-25
 labels:
