@@ -4,7 +4,7 @@ type: project
 published: true
 image: images/generation.jpg
 title: Communication Technology Patterns and the Generation Gap
-permalink: projects/sundial
+permalink: projects/generation
 date: 2016
 labels:
   - Pilot Study
