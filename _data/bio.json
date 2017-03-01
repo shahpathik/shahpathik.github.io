@@ -64,7 +64,8 @@
         "Common Lisp",
         "Prolog",
         "Python",
-        "Java Play Framework"
+        "Java Play Framework",
+        "Meteor"
       ]
     },
     {
@@ -96,7 +97,7 @@
       "studyType": "Masters",
       "startDate": "2015",
       "endDate": "2017",
-      "gpa": "3.85",
+      "gpa": "3.88",
       "courses": ["Advanced Software Engineering", "Advanced Artificial Intelligence", "High Performance Computing", "Analysis of Algorithms", "HCI Design Methods", "Intelligent Autonomous Agents", "Social Informatics"
       ]
     }
