@@ -38,7 +38,6 @@
       "keywords": [
         "connected presence",
         "social networks",
-        "IoT"
       ]
     },
     {
@@ -48,7 +47,12 @@
         "emotional intelligence",
         "emotion contagion"
       ]
-    }
+    },
+    {
+      "name": "IoT",
+      "keywords": [
+      ]
+    },
   ],
   "skills": [
     {
