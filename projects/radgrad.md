@@ -2,7 +2,7 @@
 layout: project
 type: project
 published: true
-image: images/radgrad.jpg
+image: images/radgrad_logo.png
 title: RadGrad
 permalink: projects/radgrad
 date: 2017
