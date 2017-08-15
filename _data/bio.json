@@ -1,12 +1,12 @@
 {
   "basics": {
     "name": "Amy Takayesu",
-    "label": "Graduate Student",
+    "label": "Software Engineer",
     "picture": "https://amymalia.github.io/images/amy2.jpeg",
-    "email": "amytaka@hawaii.edu",
-    "phone": "808-956-7420",
+    "email": "amytakayesu@gmail.com",
+    "phone": "808-224-1424",
     "website": "https://amymalia.github.io",
-    "summary": "I am studying for a Masters in Computer Science at the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Summer, 2017.",
+    "summary": "My mission is to help to advance humankind in a creative, beautiful and positive direction.",
     "location": {
       "address": "1680 East-West Road, POST Building Room 314-7",
       "postalCode": "96822",
@@ -71,7 +71,9 @@
         "Prolog",
         "Python",
         "Java Play Framework",
-        "Meteor"
+        "Meteor",
+        "AngularJS",
+        "Flask"
       ]
     },
     {
@@ -82,7 +84,8 @@
         "Ubuntu",
         "Kali Linux",
         "Windows",
-        "Git/GitHub"
+        "Git/GitHub/BitBucket",
+        "Jira & Confluence"
       ]
     }
   ],
@@ -109,12 +112,25 @@
     }
   ],
   "work": [
+       {
+      "company": "LiveAction",
+      "position": "Software Engineer Intern",
+      "website": "liveaction.com",
+      "startDate": "May 2017",
+      "endDate": "Present",
+      "summary": "Contributed front-end code to the LiveNX web UI, with a focus on AngularJS.",
+      "highlights": [
+        "Participated in agile development and worked through dozens of issues spanning over four releases (6.2.0, 6.2.1, 6.2.2, and 7.0)", 
+        "Worked with the back-end team and a remote design team to integrate new management features into the web UI.", 
+        "Improved customer support and customer on-boarding experiences by implementing LiveAction’s first WalkMe solutions"
+      ]
+    },
     {
       "company": "UH Manoa Computer Science Department",
       "position": "Teaching Assistant",
       "website": "",
       "startDate": "2015",
-      "endDate": "Present",
+      "endDate": "2017",
       "summary": "Assist professors in teaching undergraduate ICS courses (Introduction to Computer Science II, Programming Language Theory, Secure Coding, Software Engineering I & II).",
       "highlights": [
         "Developed full lesson plans including class format, material, homework, facilitating discussions, and exams for Secure Coding class",
