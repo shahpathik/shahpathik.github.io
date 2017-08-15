@@ -15,7 +15,7 @@ labels:
   - Education
   - MongoDB
 summary: I am one of the key developers creating an online system that combines degree planning, social networking, and gamification to enhance the undergraduate computer science experience academically, socially, and professionally.
-projecturl: www.radgrad.org
+projecturl: http://www.radgrad.org
 ---
 
 
