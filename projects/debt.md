@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-published: true
+published: false
 image: images/debt.png
 title: Secure Debt Tracker
 permalink: projects/debt
