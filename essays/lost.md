@@ -16,7 +16,7 @@ I was sitting by myself on a trolleybus in -10 &deg;C weather in Mendoza, Argent
 
 I observed quietly as the trolleybus left the city and entered the suburbs where it began to slowly empty itself. Local teenagers, city workers, and elderly people all took their turns. I confidently sat there towards the back of the trolley, listening carefully for any mention of my street name.
 
-Suddenly, the trolley came to an abrupt and unpleasant halt. I stared incoherently as the bus driver got up, turned towards me, and started yelling some foreign words. It took me a good 10-15 seconds to finally realize that the trolley had reached the end of its route, and I was the only person left on board. I quickly strung together some Spanish words, attempting to let the driver know that I understood him, and I hopped off the trolley. 
+Suddenly, the trolley came to an abrupt and unpleasant halt. I stared incoherently at the bus driver as he got up, turned towards me, and started yelling some foreign words. It took me a good 10-15 seconds to finally realize that the trolley had reached the end of its route, and I was the only person left on board. I quickly strung together some Spanish words, attempting to let the driver know that I understood him, and I hopped off the trolley. 
 
 At some point, I had left the suburbs and entered an industrial area, with few buildings or people except the occasional run down automobile shop. Since it was my first day, I had no cellphone, so I couldn't call my host family to pick me up or rely on good ole Google Maps to lead me home. With only a crumpled paper map and my own wisdom to guide me, I started trekking down the road, heading back where the trolley came from. 
 
