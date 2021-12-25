@@ -1,29 +1,28 @@
 {
   "basics": {
-    "name": "Amy Malia Takayesu",
-    "label": "Software Engineer",
-    "picture": "https://amymalia.github.io/images/amy.jpeg",
-    "email": "amytakayesu@gmail.com",
-    "phone": "808-224-1424",
-    "website": "https://amymalia.github.io",
+    "name": "Shah Pathik",
+    "label": "Senior Software Engineer",
+    "picture": "https://shahpathik.github.io/images/Pathik_Profile.jpeg",
+    "email": "shahpathik@gmail.com",
+    "phone": "612-757-3859",
+    "website": "https://shahpathik.github.io",
     "summary": "My mission is to help to advance humankind in a creative, beautiful and positive direction.",
     "location": {
-      "address": "1680 East-West Road, POST Building Room 314-7",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "Minneapolis - Minnesota",
+      "postalCode": "55123",
+      "city": "Eagan",
       "countryCode": "USA",
-      "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "amymalia",
-        "url": "http://github.com/amymalia"
+        "username": "shahpathik",
+        "url": "http://github.com/shahpathik"
       },
       {
         "network": "linkedin",
-        "username": "amytakayesu",
-        "url": "http://linkedin.com/in/amytakayesu"
+        "username": "shahpathik",
+        "url": "https://www.linkedin.com/in/pathik-d-shah"
       }
     ]
   },
