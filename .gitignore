@@ -1,6 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
 
 .idea/
-*.iml
+template.iml
 _site/
 .sass-cache/
